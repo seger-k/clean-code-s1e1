@@ -74,8 +74,7 @@
 }
 
 /* Heading */
-.title,
-.add-item-label {
+.title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -103,7 +102,7 @@
 }
 
 /* New Task */
-.add-item-label {
+.add-item-title {
   display: block;
   margin: 0 0 20px;
 }
